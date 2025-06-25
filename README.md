@@ -26,4 +26,4 @@ SafePrint is a privacy-first web application for securely transferring documents
 
 Made with ❤️ by Pavan
 
-"Codebase is private due to competition rules / still under cleanup. Full demo available on request."
+"Codebase is private. Full demo available on request."
